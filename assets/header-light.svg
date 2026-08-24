@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="168" viewBox="0 0 1000 168" role="img" aria-label="Xiaoyu Zong, Healthcare Data Scientist. The analysis pipelines a research group runs on, and the last review before it publishes.">
+  <rect width="1000" height="168" fill="#ffffff"/>
+  <rect x="40" y="30" width="4" height="108" rx="2" fill="#0969da"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="70" y="74" font-size="42" font-weight="700" fill="#1f2328" letter-spacing="0.5">XIAOYU ZONG</text>
+    <text x="72" y="106" font-size="19" font-weight="500" fill="#1f2328">Healthcare Data Scientist  ·  Biobank &amp; multimodal health data</text>
+    <text x="72" y="133" font-size="15" fill="#59636e">The analysis pipelines a research group runs on, and the last review before it publishes</text>
+  </g>
+</svg>
